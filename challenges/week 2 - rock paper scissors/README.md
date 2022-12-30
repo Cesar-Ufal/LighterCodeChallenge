@@ -18,6 +18,8 @@ _Note que pode acontecer de nenhum dos dois jogadores ganharem, para este caso, 
 
 ## Ranking
 
-|     | Nome | Tamanho (caracteres) |
-| --: | ---- | -------------------- |
+|     | Nome                  | Tamanho (caracteres) | Linguagem |
+| --: | --------------------- | -------------------- | --------- |
+| --: | Cesar Henrique Cícero | 164                  | C         |
+
 
